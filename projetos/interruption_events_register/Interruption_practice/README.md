@@ -45,10 +45,6 @@ A contagem recomeça do início
 3. **Carregar para o dispositivo**:
    - Conecte o Raspberry Pi Pico ao seu computador via USB e carregue o código compilado para o dispositivo.
 
-4. **Execução**:
-   - Após o código ser carregado no Raspberry Pi Pico, o sistema começará a funcionar automaticamente. 
-   - Pressione os botões para solicitar a passagem de pedestres ou empilhadeiras, e observe os LEDs e a tela OLED exibindo o estado atual.
-
 ## 🖼️ Imagens e Vídeos
 ![Foto do Setup](images/bitdoglab.png)
 ![Pinagem](images/pinagem.png)
